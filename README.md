@@ -17,3 +17,8 @@ Bresenham Line Algorithm
 
 <img width="638" height="539" alt="image" src="https://github.com/user-attachments/assets/3bc81edf-099e-4323-8a88-5734bfb5a50f" />
 
+Bresenham Line Algorithm(red)
+
+<img width="641" height="540" alt="image" src="https://github.com/user-attachments/assets/89aa0868-0b31-4e48-ba75-b480726c26fe" />
+
+
