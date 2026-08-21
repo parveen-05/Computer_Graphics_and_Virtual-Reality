@@ -21,9 +21,11 @@ Bresenham Line Algorithm(red)
 
 <img width="641" height="540" alt="image" src="https://github.com/user-attachments/assets/89aa0868-0b31-4e48-ba75-b480726c26fe" />
 
+
 EXPERIMENT – 3
 IMPLEMENTATION OF TWO-DIMENSIONAL TRANSFORMATIONS
 USING HOMOGENEOUS COORDINATES
+
 <img width="597" height="628" alt="image" src="https://github.com/user-attachments/assets/051b4ee8-6dc0-4794-9789-45ee35513638" />
 
 
