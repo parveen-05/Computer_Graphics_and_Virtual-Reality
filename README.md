@@ -28,5 +28,17 @@ USING HOMOGENEOUS COORDINATES
 
 <img width="597" height="628" alt="image" src="https://github.com/user-attachments/assets/051b4ee8-6dc0-4794-9789-45ee35513638" />
 
+EXPERIMENT -4
+Implement composite transformations using matrix representation
+
+<img width="805" height="630" alt="image" src="https://github.com/user-attachments/assets/29f74fc8-7add-4fc5-bbe8-cf1394f3bc60" />
+
+EXPERIMENT 5
+Implement the Cohen–Sutherland line clipping algorithm
+
+<img width="805" height="634" alt="image" src="https://github.com/user-attachments/assets/b85d5076-4c19-4c31-9fb0-371bfcac5ac4" />
+
+
+
 
 
