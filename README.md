@@ -43,6 +43,12 @@ DEVELOP A BASIC OPENGL PROGRAM USING VERTEX AND FRAGMENT SHADERS.
 
 <img width="800" height="630" alt="image" src="https://github.com/user-attachments/assets/6c42f725-4437-468d-82ce-836c29378043" />
 
+EXPERIMENT 9
+CREATE A SIMPLE INTERACTIVE 3D SCENE USING UNITY
+
+<img width="811" height="635" alt="image" src="https://github.com/user-attachments/assets/65950c61-0ab3-4027-a526-536e7efa04ea" />
+
+
 
 
 
