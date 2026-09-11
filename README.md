@@ -38,6 +38,12 @@ Implement the Cohen–Sutherland line clipping algorithm
 
 <img width="805" height="634" alt="image" src="https://github.com/user-attachments/assets/b85d5076-4c19-4c31-9fb0-371bfcac5ac4" />
 
+EXPERIMENT 8
+DEVELOP A BASIC OPENGL PROGRAM USING VERTEX AND FRAGMENT SHADERS.
+
+<img width="800" height="630" alt="image" src="https://github.com/user-attachments/assets/6c42f725-4437-468d-82ce-836c29378043" />
+
+
 
 
 
