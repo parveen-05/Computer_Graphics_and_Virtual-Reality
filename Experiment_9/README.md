@@ -32,11 +32,5 @@ python3 main.py
 ## Result
 An interactive 3D-scene-style view is displayed. The user can rotate and zoom the scene and toggle axes and wireframe mode.
 
-## Viva questions
-1. What is a 3D scene?
-2. What is a GameObject in Unity?
-3. What is a Transform component?
-4. What is the purpose of a camera in a 3D scene?
-5. What is the difference between a mesh and a material?
-6. What is wireframe rendering?
-7. Which programming language is commonly used for Unity scripting?
+<img width="1000" height="650" alt="output_preview" src="https://github.com/user-attachments/assets/fbecd5d5-67c1-48b9-b391-7996b5b12c3b" />
+
