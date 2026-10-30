@@ -47,14 +47,5 @@ A GUI with a rectangle, axes, transformation buttons and parameter fields. Gray 
 
 `output_preview.png` is illustrative, not a screenshot of an actual program run. Capture your own runtime screenshot for submission.
 
-## Viva questions
-1. What are 2D transformations?
-2. Why are homogeneous coordinates used?
-3. Why is a 3 × 3 matrix used for 2D homogeneous transformations?
-4. What is translation?
-5. What is the difference between rotation and scaling?
-6. What is reflection?
-7. What is shearing?
+<img width="1000" height="580" alt="output_preview" src="https://github.com/user-attachments/assets/f9303d25-2f8b-4c74-ad8c-3896e70a7f83" />
 
-## Note
-The lab manual specifies C++/OpenGL. This Python/Tkinter adaptation should be submitted only if your faculty accepts Python.
