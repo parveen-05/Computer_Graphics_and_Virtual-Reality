@@ -32,10 +32,4 @@ The application displays a simple vertex shader and fragment shader example. The
 ## Result
 The simulated triangle displays different fragment shading modes and the four main stages of the shader pipeline.
 
-## Viva questions
-1. What is a vertex shader?
-2. What is a fragment shader?
-3. What is the purpose of `gl_Position`?
-4. What is rasterization?
-5. What is the difference between a vertex and a fragment?
-6. Why are vertex attributes interpolated across a triangle?
+<img width="1000" height="620" alt="output_preview" src="https://github.com/user-attachments/assets/07bf7079-abdb-4446-ac4c-298fd06fab43" />
