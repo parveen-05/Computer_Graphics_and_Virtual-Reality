@@ -47,17 +47,5 @@ Tkinter is part of the Python standard library when included in the installation
 
 Click **Apply Composite Transformation**. The original rectangle is shown with a gray dashed outline; the composite-transformed rectangle is blue. The combined 3 × 3 matrix is displayed below the canvas. Click **Reset** to restore the original shape.
 
-## Viva questions
-1. What is a composite transformation?
-2. Why are homogeneous coordinates used?
-3. What is the order of matrix multiplication for this program?
-4. Why does the rightmost matrix act first for column vectors?
-5. What is the difference between individual and composite transformations?
-6. Can changing the order of transformations change the result?
-7. What is the size of a 2D homogeneous transformation matrix?
 
-## Output image note
-`output_preview.png` is an illustrative preview of the expected application output, not a screenshot captured from a live run. Capture your own runtime screenshot as `output_screenshot.png` before submission.
-
-## Submission note
-The lab manual specifies C++/OpenGL. This Python/Tkinter adaptation should be submitted only if your faculty accepts Python implementations.
+<img width="1050" height="570" alt="output_preview" src="https://github.com/user-attachments/assets/a2de8664-f0e7-4bc8-8fda-41fd1bbe4642" />
