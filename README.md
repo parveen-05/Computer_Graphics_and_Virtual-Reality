@@ -1,0 +1,48 @@
+## Computer Graphics and Virtual Reality
+
+test_openGL
+
+<img width="890" height="715" alt="image" src="https://github.com/user-attachments/assets/32e0d378-a126-4e3e-af89-d9e0a13221ba" />
+
+moving triangle
+
+<img width="863" height="685" alt="image" src="https://github.com/user-attachments/assets/ef7e7e9e-947e-467b-9cb5-d5ffec943582" />
+
+Bresenham's line and circle
+
+<img width="668" height="663" alt="image" src="https://github.com/user-attachments/assets/1849c75e-9ec7-41a2-af20-a1463b40d822" />
+
+Bresenham Line Algorithm
+
+<img width="638" height="539" alt="image" src="https://github.com/user-attachments/assets/3bc81edf-099e-4323-8a88-5734bfb5a50f" />
+
+Bresenham Line Algorithm(red)
+
+<img width="641" height="540" alt="image" src="https://github.com/user-attachments/assets/89aa0868-0b31-4e48-ba75-b480726c26fe" />
+
+
+EXPERIMENT – 3
+IMPLEMENTATION OF TWO-DIMENSIONAL TRANSFORMATIONS
+USING HOMOGENEOUS COORDINATES
+
+<img width="597" height="628" alt="image" src="https://github.com/user-attachments/assets/051b4ee8-6dc0-4794-9789-45ee35513638" />
+
+EXPERIMENT -4
+Implement composite transformations using matrix representation
+
+<img width="805" height="630" alt="image" src="https://github.com/user-attachments/assets/29f74fc8-7add-4fc5-bbe8-cf1394f3bc60" />
+
+EXPERIMENT 5
+Implement the Cohen–Sutherland line clipping algorithm
+
+<img width="805" height="634" alt="image" src="https://github.com/user-attachments/assets/b85d5076-4c19-4c31-9fb0-371bfcac5ac4" />
+
+EXPERIMENT 8
+DEVELOP A BASIC OPENGL PROGRAM USING VERTEX AND FRAGMENT SHADERS.
+
+<img width="800" height="630" alt="image" src="https://github.com/user-attachments/assets/6c42f725-4437-468d-82ce-836c29378043" />
+
+
+
+
+
