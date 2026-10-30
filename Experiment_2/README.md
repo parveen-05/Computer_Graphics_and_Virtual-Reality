@@ -43,13 +43,5 @@ A circular outline made from raster points appears on the canvas. The applicatio
 
 `output_preview.png` is an illustrative preview, not a screenshot captured from your actual run. Capture your own application screenshot and save it as `output_screenshot.png` before submitting.
 
-## Viva Preparation
-1. What is the Midpoint Circle Drawing Algorithm?
-2. Why is eight-way symmetry used?
-3. What is the initial decision parameter?
-4. What are the two possible updates to the decision parameter?
-5. Why does the algorithm stop when `x > y`?
-6. What is the advantage of an incremental raster algorithm?
+<img width="850" height="620" alt="output_preview" src="https://github.com/user-attachments/assets/48c6cc52-d341-4be7-99d2-f6526ea8bd33" />
 
-## Note
-The lab manual specifies C++ and OpenGL. This folder is a Python/Tkinter adaptation for practice. Confirm with your faculty whether this implementation is accepted for submission.
