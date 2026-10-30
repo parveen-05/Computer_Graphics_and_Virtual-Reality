@@ -49,14 +49,5 @@ A GUI displays two overlapping filled triangles. The blue triangle is partially 
 
 `output_preview.png` is an illustrative preview of the expected Z-buffer result, not a screenshot captured from a live run. Capture your actual program window and save it as `output_screenshot.png` before submission.
 
-## Viva questions
-1. What is hidden surface removal?
-2. What is the Z-buffer algorithm?
-3. What information is stored in a Z-buffer?
-4. Why is the Z-buffer initialized to infinity in this implementation?
-5. What happens when a new fragment has a smaller depth value?
-6. What is the purpose of the colour buffer?
-7. What is one limitation of the Z-buffer algorithm?
+<img width="900" height="560" alt="output_preview" src="https://github.com/user-attachments/assets/869c3b48-ebc4-453d-ab2f-a707780420af" />
 
-## Submission note
-The lab manual specifies C++/OpenGL. This is a Python/Tkinter adaptation; submit it only if your faculty accepts Python implementations.
