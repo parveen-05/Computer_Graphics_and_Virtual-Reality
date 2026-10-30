@@ -60,14 +60,5 @@ The application displays:
    ```
 No pip installation is needed if Tkinter is included in your Python installation.
 
-## Viva questions
-1. What is line clipping?
-2. What is the Cohen–Sutherland line clipping algorithm?
-3. What is a region code?
-4. What do the four bits of the region code represent?
-5. What is trivial acceptance?
-6. What is trivial rejection?
-7. Why are bitwise AND and bitwise OR operations useful in this algorithm?
+<img width="1050" height="650" alt="output_preview" src="https://github.com/user-attachments/assets/fcca720a-b1dd-44a7-915e-86a18e69b788" />
 
-## Submission note
-The lab manual specifies C++/OpenGL. This is a Python/Tkinter adaptation; submit it only if your faculty accepts Python implementations.
