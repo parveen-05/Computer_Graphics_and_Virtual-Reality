@@ -57,14 +57,5 @@ A blue shaded 3D sphere appears with ambient illumination, diffuse shading and a
 
 `output_preview.png` is an illustrative preview generated with the default parameters. It is not a screenshot captured from the live application. Capture your actual program window and save it as `output_screenshot.png` before submission.
 
-## Viva questions
-1. What is the Phong illumination model?
-2. What are the three components of the Phong model?
-3. What is ambient reflection?
-4. What is diffuse reflection?
-5. What is specular reflection?
-6. What is the role of the shininess exponent?
-7. What is the surface normal?
+<img width="760" height="560" alt="output_preview" src="https://github.com/user-attachments/assets/0776b10f-ef68-409b-a9f8-869ef0485eee" />
 
-## Submission note
-The lab manual specifies C++/OpenGL. This is a Python/Tkinter software-rendering adaptation; submit it only if your faculty accepts Python implementations.
