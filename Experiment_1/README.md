@@ -76,27 +76,5 @@ Capture the actual window produced by your IDLE run. Save it in this folder as `
 | Rounds generated coordinates | Chooses pixels using an error term |
 | Straightforward incremental method | Generally more efficient for raster line drawing |
 
-## Viva questions from the manual
-1. What is raster graphics?
-2. Why are line drawing algorithms required?
-3. Define scan conversion.
-4. Explain DDA algorithm.
-5. What are the drawbacks of DDA?
-6. Why is Bresenham faster?
-7. What is the decision parameter?
-8. Why does Bresenham avoid floating-point arithmetic?
-9. Which algorithm is more suitable for hardware implementation?
-10. Compare DDA and Bresenham.
-11. What happens when slope > 1?
-12. What is aliasing?
-13. Define pixel resolution.
-14. Explain graphics primitives.
-15. Give real-life applications of line drawing algorithms.
+<img width="900" height="630" alt="Screenshot 2026-10-30 at 3 57 21 PM" src="https://github.com/user-attachments/assets/58ff4653-2c00-4117-95fc-a49054c21fce" />
 
-## Git commands
-From the parent directory containing this folder:
-```bash
-git add CGVR_Experiment_01_Python_DDA_Bresenham
-git commit -m "Add CGVR experiment 1: DDA and Bresenham in Python"
-git push
-```
